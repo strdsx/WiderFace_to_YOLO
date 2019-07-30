@@ -1,7 +1,7 @@
 # Wider Face Trainset --> YOLO Trainset
 
 ## Download
-- First Wider Face dataset http://shuoyang1213.me/WIDERFACE/
+- Wider Face dataset http://shuoyang1213.me/WIDERFACE/
 
 ## Description
 - Wider Face Trainset의 ground-truth는 <code>dataset/wider_face_split/wider_face_train_bbx_gt.txt</code> 에서 확인 가능.
