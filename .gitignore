@@ -1,3 +1,4 @@
 *.zip
 *.jpg
-*.txt
+
+dataset/yolo_wider/*.txt
